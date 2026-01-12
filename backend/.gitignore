@@ -1,0 +1,18 @@
+# Python environments
+ai/.venv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# AI model files
+*.pt
+*.pth
+*.onnx
+
+# Large binaries
+ai/**/*.dll
+ai/**/*.lib
+ai/**/*.pyd

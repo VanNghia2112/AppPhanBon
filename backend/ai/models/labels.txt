@@ -1,0 +1,5 @@
+BrownSpot
+Healthy
+Miner
+Phoma
+Rust
